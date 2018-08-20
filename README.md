@@ -1,5 +1,3 @@
-# WMS
-
 ## Commit Types
 
 Must be one of the following:
@@ -13,6 +11,7 @@ Must be one of the following:
 + **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 + **test**: Adding missing tests or correcting existing tests
 
+## WMS
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
 
 ## Development server
