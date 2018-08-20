@@ -1,5 +1,18 @@
 # WMS
 
+## Commit Types
+
+Must be one of the following:
+
++ **build**: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
++ **ci**: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
++ **docs**: Documentation only changes
++ **feat**: A new feature
++ **perf**: A code change that improves performance
++ **refactor**: A code change that neither fixes a bug nor adds a feature
++ **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
++ **test**: Adding missing tests or correcting existing tests
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
 
 ## Development server
